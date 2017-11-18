@@ -1,6 +1,4 @@
-BHUSA EPP Videos
-
-Videos / Demos of what was shown during the talk
+BHUSA EPP Videos - Videos / Demos of what was shown during the talk
 
   Demo1-20170625-2232-FileShareInfection.mp4 (unedited)
   - This video demonstrates that installing an agent on another endpoint, for example a file share, and not the machine where the malware initiated, does not protect the fileshare. I know your boss think it will, but show them this!
